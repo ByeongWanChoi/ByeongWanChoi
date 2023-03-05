@@ -1,5 +1,5 @@
 # Hello! I'm Brian :)
-<a href="mailto=s1331111@gmail.com" target="_blank"><img src="https://img.shields.io/badge/s1331111@gmail.com-000000?style=flat-square&logo=logoColor=white"/></a>
+<a href="mailto:s1331111@gmail.com"><img src="https://img.shields.io/badge/s1331111@gmail.com-000000?style=flat-square&logo=logoColor=white"/></a>
 ## Who are you?
 🖥 I'm a student who want to be a Hardware Architecture Designer.
 
