@@ -1,6 +1,6 @@
 # Hello! I'm Brian :)
 <a href="mailto:s1331111@gmail.com"><img src="https://img.shields.io/badge/s1331111@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Academic Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+<a href="https://screamofees.tistory.com/"><img src="https://img.shields.io/badge/Academic Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 ## 🤔 Who are you?
 🖥 I'm a student who want to be a Hardware Architecture Designer.
 \
