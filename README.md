@@ -1,6 +1,6 @@
 # Hello! 
 <a href="mailto:s1331111@gmail.com"><img src="https://img.shields.io/badge/s1331111@gmail.com-EA4335??style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://screamofees.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Academic Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
+
 ## 🤔 Who are you?
 🖥 
 \
